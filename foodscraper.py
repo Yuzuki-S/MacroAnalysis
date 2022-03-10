@@ -17,6 +17,7 @@ print(name_box.h1.text.strip())
 print(price.text.strip())
 print(re.findall('Energy.+?kJ',nutrition.text.strip()))
 print(re.findall('Protein.+?g',nutrition.text.strip()))
+print('m1')
 
 
 
