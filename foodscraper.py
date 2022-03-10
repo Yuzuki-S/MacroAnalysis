@@ -21,3 +21,4 @@ print('m1')
 
 print('rebase-third')
 print('rebase-four')
+print('rebase-six')
