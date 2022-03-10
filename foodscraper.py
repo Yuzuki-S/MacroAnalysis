@@ -21,4 +21,8 @@ print('m1')
 
 print('rebase-third')
 print('rebase-four')
+<<<<<<< HEAD
 print('rebase-six')
+=======
+print('big-test')
+>>>>>>> big test
